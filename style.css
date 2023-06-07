@@ -1,0 +1,17 @@
+body {
+  font-family: 'Cabin', Courier, monospace;
+}
+
+/* section {
+    min-height: 400px;
+  } */
+
+@media only screen and (max-width: 600px) {
+  .edu {
+    margin-top: 20px;
+  }
+
+  .cert {
+    margin-top: 20px;
+  }
+}
